@@ -1,4 +1,3 @@
-# incident-report-crew
 # Incident Report Crew
 
 A minimal CrewAI command-line app. Two agents work sequentially to turn an incident description into a short markdown report.
